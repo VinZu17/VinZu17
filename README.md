@@ -27,7 +27,7 @@ const vinzu17: Developer = {
   currently: "building in public",
   stack:     ["TypeScript", "Python", "C++", "CSS", "PLpgSQL", "HTML"],
   mantra:    "Make useful things, then make them delightful 🚀",
-};
+}
 
 > Frontend or full-stack engineer
 > 
