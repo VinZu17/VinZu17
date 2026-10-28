@@ -20,7 +20,6 @@
 
 ## ⚡ whoami
 
-```typescript
 const vinzu17: Developer = {
   name:      "Muhammad Munji",
   role:      "Frontend or full-stack engineer",
@@ -29,7 +28,6 @@ const vinzu17: Developer = {
   stack:     ["TypeScript", "Python", "C++", "CSS", "PLpgSQL", "HTML"],
   mantra:    "Make useful things, then make them delightful 🚀",
 };
-```
 
 > Frontend or full-stack engineer
 > 
