@@ -19,7 +19,7 @@
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## ⚡ whoami
-
+```typescript
 const vinzu17: Developer = {
   name:      "Muhammad Munji",
   role:      "Frontend or full-stack engineer",
@@ -27,7 +27,8 @@ const vinzu17: Developer = {
   currently: "building in public",
   stack:     ["TypeScript", "Python", "C++", "CSS", "PLpgSQL", "HTML"],
   mantra:    "Make useful things, then make them delightful 🚀",
-}
+};
+```
 
 > Frontend or full-stack engineer
 > 
