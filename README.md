@@ -113,10 +113,6 @@ A featured build from this profile.
 
 <img src="https://www.gitskins.com/api/section/stats?username=vinzu17&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
 
-<br/>
-vatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222230828%3Fu%3D3cab996622e5becdb4f3b3c2d9e69d3e19a44f24%26v%3D4" alt="vinzu17 heatmap visual" />
-</p>
-
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🏆 Beyond the Code
