@@ -114,15 +114,7 @@ A featured build from this profile.
 <img src="https://www.gitskins.com/api/section/stats?username=vinzu17&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
 
 <br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=vinzu17&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vinzu17&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222230828%3Fu%3D3cab996622e5becdb4f3b3c2d9e69d3e19a44f24%26v%3D4" alt="vinzu17 heatmap visual" />
+vatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222230828%3Fu%3D3cab996622e5becdb4f3b3c2d9e69d3e19a44f24%26v%3D4" alt="vinzu17 heatmap visual" />
 </p>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
@@ -132,7 +124,11 @@ A featured build from this profile.
 * 🧠 **Profile signal:** 237 contributions in the last year
 * 🚀 **Builder energy:** 4 public repositories
 * ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+<img src="https://www.gitskins.com/api/section/heatmap?username=vinzu17&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
