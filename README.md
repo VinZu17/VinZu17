@@ -116,14 +116,16 @@ A featured build from this profile.
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="left">
+
 ## 🏆 Beyond the Code
 
 * 🧠 **Profile signal:** 237 contributions in the last year
 * 🚀 **Builder energy:** 4 public repositories
 * ⭐ **Community signal:** 0 stars across featured work
-<div align="center"><img src="https://www.gitskins.com/api/section/heatmap?username=vinzu17&theme=neon&style=aura" width="100%" alt="Contribution activity" />
 
 </div>
+
+<div align="center"><img src="https://www.gitskins.com/api/section/heatmap?username=vinzu17&theme=neon&style=aura" width="100%" alt="Contribution activity" /></div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vinzu17&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
